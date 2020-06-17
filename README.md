@@ -13,5 +13,8 @@ CS250 DEMO
 這裡偷放個 hint，
 x64 放資料的順序是 little-endian，在拉 encrypted 的資料的時候要注意
 
+如果有其他問題可以來 FB 找我
+[link](https://facebook.com/racterub)
+
 
 License: MIT
