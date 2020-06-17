@@ -8,5 +8,10 @@ CS250 DEMO
 ## Lab 01
 這邊不會附上原始碼
 
+** Update **
+
+這裡偷放個 hint，
+x64 放資料的順序是 little-endian，在拉 encrypted 的資料的時候要注意
+
 
 License: MIT
